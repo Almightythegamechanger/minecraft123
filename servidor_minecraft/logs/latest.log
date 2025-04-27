@@ -21,3 +21,11 @@
 [20:03:12] [Server thread/INFO]: Done (15.545s)! For help, type "help"
 [20:11:30] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39707] logged in with entity id 21 at (2827.8948186764896, 71.0, -696.6999999880791)
 [20:11:30] [Server thread/INFO]: _Sebas23_ joined the game
+[20:14:26] [Server thread/INFO]: chepaboy[/100.80.73.88:61179] logged in with entity id 1136 at (2798.800181931444, 70.0, -770.3757426455458)
+[20:14:26] [Server thread/INFO]: chepaboy joined the game
+[20:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2782, y=60, z=-941} jd{x=2782, y=59, z=-941}
+[20:23:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2782, y=61, z=-941} jd{x=2782, y=59, z=-941}
+[20:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2782, y=62, z=-941} jd{x=2782, y=59, z=-941}
+[20:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2782, y=61, z=-935} jd{x=2782, y=60, z=-935}
+[20:29:58] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[20:29:58] [Server thread/INFO]: chepaboy left the game
