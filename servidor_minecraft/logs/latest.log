@@ -24,3 +24,6 @@
 [20:36:34] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39859] logged in with entity id 216 at (2783.6233554058394, 59.0, -963.3363718105509)
 [20:36:34] [Server thread/INFO]: _Sebas23_ joined the game
 [20:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[20:48:02] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[20:48:02] [Server thread/INFO]: chepaboy left the game
+[20:50:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2765, y=66, z=-736} jd{x=2768, y=63, z=-739}
