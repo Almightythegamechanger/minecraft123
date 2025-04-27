@@ -20,3 +20,15 @@
 [05:48:55] [Server thread/INFO]: chepaboy[/100.80.73.88:49840] logged in with entity id 21 at (2822.09343123879, 70.0, -709.3580603142111)
 [05:48:55] [Server thread/INFO]: chepaboy joined the game
 [05:49:16] [Server thread/WARN]: chepaboy moved too quickly! -3.675730363627281,0.49520087700592796,-9.48817073408975
+[06:08:53] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved wrongly! 0.4482242825429239
+[06:15:57] [Server thread/INFO]: Stopping the server
+[06:15:57] [Server thread/INFO]: Stopping server
+[06:15:57] [Server thread/INFO]: Saving players
+[06:15:57] [Server thread/INFO]: Saving worlds
+[06:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
