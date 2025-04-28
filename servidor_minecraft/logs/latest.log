@@ -156,3 +156,13 @@
 [19:14:25] [Server thread/INFO]: chepaboy left the game
 [19:14:26] [Server thread/INFO]: chepaboy[/100.80.73.88:63776] logged in with entity id 34269 at (660.961853781611, 65.0, -78.63433060821849)
 [19:14:26] [Server thread/INFO]: chepaboy joined the game
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
+[19:25:12] [Server thread/WARN]: chepaboy moved too quickly! -0.8435277990564032,0.23152379758701613,-10.077987655064703
+[19:25:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=455, y=69, z=511} jd{x=455, y=68, z=510}
+[19:25:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=460, y=71, z=497} jd{x=460, y=69, z=499}
