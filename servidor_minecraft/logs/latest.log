@@ -132,3 +132,27 @@
 [19:03:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2864, y=66, z=-848} jd{x=2863, y=64, z=-849}
 [19:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2854, y=64, z=-865} jd{x=2855, y=63, z=-865}
 [19:05:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> FITO
+[19:08:11] [Server thread/WARN]: chepaboy moved too quickly! -4.563640961117528,-3.0,8.452255089606354
+[19:08:41] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[19:08:41] [Server thread/INFO]: chepaboy left the game
+[19:08:44] [Server thread/INFO]: chepaboy[/100.80.73.88:63481] logged in with entity id 33319 at (423.69999998807907, 45.121296840539195, -167.49639765048357)
+[19:08:44] [Server thread/INFO]: chepaboy joined the game
+[19:09:26] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[19:09:26] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[19:09:26] [Server thread/INFO]: chepaboy left the game
+[19:09:33] [Server thread/INFO]: chepaboy[/100.80.73.88:63522] logged in with entity id 33440 at (483.6513646959222, 42.00133597911215, -180.98348020928725)
+[19:09:33] [Server thread/INFO]: chepaboy joined the game
+[19:10:52] [Server thread/WARN]: chepaboy moved too quickly! 8.77885170145612,4.823240724935758,-0.7307687804577085
+[19:12:48] [Server thread/WARN]: chepaboy moved too quickly! 9.73163502593195,1.8338907390617862,-1.6564667346057718
+[19:13:25] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[19:13:25] [Server thread/INFO]: chepaboy left the game
+[19:13:28] [Server thread/INFO]: chepaboy[/100.80.73.88:63707] logged in with entity id 34104 at (634.5495543017081, 58.0, -70.00382594846413)
+[19:13:28] [Server thread/INFO]: chepaboy joined the game
+[19:14:11] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[19:14:11] [Server thread/INFO]: chepaboy left the game
+[19:14:13] [Server thread/INFO]: chepaboy[/100.80.73.88:63762] logged in with entity id 34247 at (659.7224272474963, 65.0, -78.30000001192093)
+[19:14:13] [Server thread/INFO]: chepaboy joined the game
+[19:14:25] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[19:14:25] [Server thread/INFO]: chepaboy left the game
+[19:14:26] [Server thread/INFO]: chepaboy[/100.80.73.88:63776] logged in with entity id 34269 at (660.961853781611, 65.0, -78.63433060821849)
+[19:14:26] [Server thread/INFO]: chepaboy joined the game
