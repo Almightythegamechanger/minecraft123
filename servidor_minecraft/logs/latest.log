@@ -37,3 +37,15 @@
 [18:32:10] [Server thread/INFO]: Villager cmk['Farmer'/9481, l='ServerLevel[world]', x=2809.51, y=70.00, z=-663.30] died, message: 'Farmer was slain by Vex'
 [18:32:30] [Server thread/INFO]: Villager cmk['Villager'/9472, l='ServerLevel[world]', x=2808.02, y=70.00, z=-673.30] died, message: 'Villager was slain by Vex'
 [18:34:34] [Server thread/INFO]: Villager cmk['Villager'/9473, l='ServerLevel[world]', x=2807.30, y=70.00, z=-673.53] died, message: 'Villager was slain by Vex'
+[18:37:59] [Server thread/INFO]: chepaboy has made the advancement [Crafting a New Look]
+[18:40:23] [Server thread/INFO]: [Not Secure] <_Sebas23_> brazzess es gratsi
+[18:41:00] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[18:41:00] [Server thread/INFO]: chepaboy left the game
+[18:41:03] [Server thread/INFO]: chepaboy[/100.80.73.88:62145] logged in with entity id 17127 at (2809.6577194200026, 61.7144175556957, -674.6999999880791)
+[18:41:03] [Server thread/INFO]: chepaboy joined the game
+[18:41:52] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[18:41:52] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[18:41:52] [Server thread/INFO]: chepaboy left the game
+[18:41:52] [Server thread/WARN]: handleDisconnection() called twice
+[18:42:00] [Server thread/INFO]: chepaboy[/100.80.73.88:62190] logged in with entity id 17338 at (2813.7182807102727, 73.66610926093821, -672.7020854712706)
+[18:42:00] [Server thread/INFO]: chepaboy joined the game
