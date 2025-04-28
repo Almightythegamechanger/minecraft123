@@ -60,3 +60,28 @@
 [05:33:17] [Server thread/INFO]: chepaboy[/100.80.73.88:62433] logged in with entity id 24254 at (2787.3592267498075, 63.0, -961.0076802797823)
 [05:33:17] [Server thread/INFO]: chepaboy joined the game
 [05:34:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2783, y=60, z=-961} jd{x=2783, y=59, z=-961}
+[05:44:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2791, y=61, z=-817} jd{x=2791, y=60, z=-817}
+[05:51:58] [Server thread/INFO]: [Not Secure] <chepaboy> _Sebas23_
+[05:54:40] [Server thread/INFO]: [Not Secure] <chepaboy> rapido exclavo
+[05:55:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=82, z=-693} jd{x=2821, y=82, z=-693}
+[05:55:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=82, z=-693} jd{x=2821, y=82, z=-693}
+[05:55:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=82, z=-693} jd{x=2821, y=82, z=-693}
+[05:55:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=82, z=-693} jd{x=2821, y=82, z=-693}
+[05:55:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=82, z=-693} jd{x=2821, y=82, z=-693}
+[05:55:34] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[05:55:34] [Server thread/INFO]: chepaboy left the game
+[05:55:40] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:55:40] [Server thread/INFO]: _Sebas23_ left the game
+[05:55:45] [Server thread/INFO]: chepaboy[/100.80.73.88:63621] logged in with entity id 31671 at (2795.549023014062, 76.02442408821369, -710.1667157632149)
+[05:55:45] [Server thread/INFO]: chepaboy joined the game
+[05:55:58] [Server thread/INFO]: Stopping the server
+[05:55:58] [Server thread/INFO]: Stopping server
+[05:55:58] [Server thread/INFO]: Saving players
+[05:55:58] [Server thread/INFO]: Saving worlds
+[05:55:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:55:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:55:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
