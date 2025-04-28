@@ -22,3 +22,14 @@
 [17:56:01] [Server thread/INFO]: _Sebas23_ joined the game
 [18:02:46] [Server thread/INFO]: chepaboy[/100.80.73.88:60277] logged in with entity id 2309 at (2839.6200380145433, 70.79673560066871, -740.2806775997456)
 [18:02:46] [Server thread/INFO]: chepaboy joined the game
+[18:10:26] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[18:10:26] [Server thread/INFO]: _Sebas23_ left the game
+[18:10:28] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50211] logged in with entity id 4766 at (2788.2582627714883, 63.0, -961.1558484254917)
+[18:10:28] [Server thread/INFO]: _Sebas23_ joined the game
+[18:16:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2278, y=64, z=-634} jd{x=2278, y=62, z=-634}
+[18:16:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2278, y=64, z=-633} jd{x=2278, y=62, z=-633}
+[18:16:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2282, y=65, z=-634} jd{x=2282, y=64, z=-634}
+[18:16:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2283, y=65, z=-634} jd{x=2282, y=65, z=-634}
+[18:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2280, y=65, z=-637} jd{x=2280, y=65, z=-638}
+[18:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2280, y=65, z=-637} jd{x=2280, y=65, z=-638}
+[18:18:32] [Server thread/INFO]: [Not Secure] <chepaboy> 2304 -648
