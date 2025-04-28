@@ -33,3 +33,7 @@
 [18:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2280, y=65, z=-637} jd{x=2280, y=65, z=-638}
 [18:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2280, y=65, z=-637} jd{x=2280, y=65, z=-638}
 [18:18:32] [Server thread/INFO]: [Not Secure] <chepaboy> 2304 -648
+[18:31:59] [Server thread/INFO]: [Not Secure] <_Sebas23_> kick chepaboy
+[18:32:10] [Server thread/INFO]: Villager cmk['Farmer'/9481, l='ServerLevel[world]', x=2809.51, y=70.00, z=-663.30] died, message: 'Farmer was slain by Vex'
+[18:32:30] [Server thread/INFO]: Villager cmk['Villager'/9472, l='ServerLevel[world]', x=2808.02, y=70.00, z=-673.30] died, message: 'Villager was slain by Vex'
+[18:34:34] [Server thread/INFO]: Villager cmk['Villager'/9473, l='ServerLevel[world]', x=2807.30, y=70.00, z=-673.53] died, message: 'Villager was slain by Vex'
