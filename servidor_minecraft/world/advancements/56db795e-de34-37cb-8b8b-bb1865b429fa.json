@@ -4209,12 +4209,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2025-04-29 06:16:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-04-29 06:13:04 +0000"
@@ -4224,24 +4218,6 @@
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-04-29 06:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-04-29 06:16:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wayfinder_armor_trim_smithing_template": "2025-04-29 06:14:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
-    "criteria": {
-      "has_raiser_armor_trim_smithing_template": "2025-04-29 06:16:17 +0000"
     },
     "done": true
   },
@@ -4269,15 +4245,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
     "criteria": {
-      "has_smithing_trim_template": "2025-04-29 06:16:17 +0000"
+      "has_wayfinder_armor_trim_smithing_template": "2025-04-29 06:14:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-29 06:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-29 06:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-04-29 06:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
+    "criteria": {
+      "has_raiser_armor_trim_smithing_template": "2025-04-29 06:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-29 06:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template": {
+    "criteria": {
+      "has_shaper_armor_trim_smithing_template": "2025-04-29 06:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-29 06:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-04-29 06:50:09 +0000"
     },
     "done": true
   },
