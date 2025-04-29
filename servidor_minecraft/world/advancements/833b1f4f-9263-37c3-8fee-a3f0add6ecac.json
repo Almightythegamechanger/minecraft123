@@ -661,6 +661,7 @@
       "minecraft:vindicator": "2025-04-07 04:38:15 +0000",
       "minecraft:magma_cube": "2025-04-07 22:30:01 +0000",
       "minecraft:spider": "2025-03-22 04:29:35 +0000",
+      "minecraft:piglin_brute": "2025-04-29 00:58:01 +0000",
       "minecraft:creeper": "2025-03-22 04:17:27 +0000",
       "minecraft:wither": "2025-04-17 05:23:25 +0000",
       "minecraft:slime": "2025-04-07 01:29:41 +0000",
@@ -4045,6 +4046,54 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-04-29 00:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-29 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 00:56:33 +0000"
     },
     "done": true
   },
