@@ -4147,5 +4147,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/brush_armadillo": {
+    "criteria": {
+      "brush_armadillo": "2025-04-29 03:57:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
