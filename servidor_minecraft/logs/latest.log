@@ -106,3 +106,46 @@
 [01:27:58] [Server thread/INFO]: chepaboy left the game
 [01:29:34] [Server thread/INFO]: chepaboy[/100.80.73.88:52431] logged in with entity id 16909 at (-102.44302428724848, 9.16214142102699, 754.6582936575844)
 [01:29:34] [Server thread/INFO]: chepaboy joined the game
+[01:33:45] [Server thread/INFO]: [Not Secure] <_Sebas23_> 350 -87
+[01:35:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-154, y=42, z=697} jd{x=-231, y=56, z=605}
+[01:35:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-154, y=42, z=697} jd{x=-231, y=56, z=605}
+[01:35:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-154, y=42, z=697} jd{x=-231, y=56, z=605}
+[01:36:41] [Server thread/INFO]: _Sebas23_ has made the advancement [War Pigs]
+[01:39:24] [Server thread/INFO]: chepaboy was slain by Piglin Brute
+[01:40:16] [Server thread/INFO]: [Not Secure] <_Sebas23_> -316 519
+[01:40:58] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:40:58] [Server thread/INFO]: _Sebas23_ left the game
+[01:41:20] [Server thread/INFO]: chepaboy was slain by Zombie
+[01:41:36] [Server thread/INFO]: chepaboy was killed while trying to hurt Zombie
+[01:42:01] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54567] logged in with entity id 21911 at (-274.30000001192093, 63.73756536518625, 529.6999999880791)
+[01:42:01] [Server thread/INFO]: _Sebas23_ joined the game
+[01:42:06] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:42:06] [Server thread/INFO]: _Sebas23_ left the game
+[01:42:36] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54571] logged in with entity id 22474 at (-273.30000001192093, 64.0, 529.6999999880791)
+[01:42:36] [Server thread/INFO]: _Sebas23_ joined the game
+[01:42:41] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:42:41] [Server thread/INFO]: _Sebas23_ left the game
+[01:42:49] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54574] logged in with entity id 22898 at (-272.15608594541436, 66.0, 529.6999999880791)
+[01:42:49] [Server thread/INFO]: _Sebas23_ joined the game
+[01:43:14] [Server thread/INFO]: [Not Secure] <chepaboy> -316 519
+[01:44:03] [Server thread/INFO]: [Not Secure] <chepaboy> 367 -94
+[01:45:21] [Server thread/INFO]: _Sebas23_ has completed the challenge [Hot Tourist Destinations]
+[01:55:11] [Server thread/INFO]: Villager cmk['Villager'/29122, l='ServerLevel[world]', x=357.70, y=27.66, z=-75.12] died, message: 'Villager tried to swim in lava'
+[01:58:12] [Server thread/INFO]: Villager cmk['Leatherworker'/23998, l='ServerLevel[world]', x=2828.64, y=70.00, z=-713.75] died, message: 'Leatherworker was slain by chepaboy'
+[01:59:31] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:59:31] [Server thread/INFO]: _Sebas23_ left the game
+[02:00:11] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[02:00:11] [Server thread/INFO]: chepaboy left the game
+[02:00:14] [Server thread/INFO]: chepaboy[/100.80.73.88:54272] logged in with entity id 30665 at (2751.594402009935, 49.0, -705.3324040303145)
+[02:00:14] [Server thread/INFO]: chepaboy joined the game
+[02:00:59] [Server thread/INFO]: Stopping the server
+[02:01:00] [Server thread/INFO]: Stopping server
+[02:01:00] [Server thread/INFO]: Saving players
+[02:01:00] [Server thread/INFO]: Saving worlds
+[02:01:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:01:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:01:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
