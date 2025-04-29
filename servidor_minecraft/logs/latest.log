@@ -1,183 +1,41 @@
-[17:55:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:55:36] [ServerMain/INFO]: Loaded 1290 recipes
-[17:55:36] [ServerMain/INFO]: Loaded 1399 advancements
-[17:55:37] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:55:37] [Server thread/INFO]: Loading properties
-[17:55:37] [Server thread/INFO]: Default game type: SURVIVAL
-[17:55:37] [Server thread/INFO]: Generating keypair
-[17:55:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:38] [Server thread/INFO]: Using epoll channel type
-[17:55:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:55:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:55:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:55:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:55:38] [Server thread/INFO]: Preparing level "world"
-[17:55:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:50] [Server thread/INFO]: Time elapsed: 1221 ms
-[17:55:50] [Server thread/INFO]: Done (12.045s)! For help, type "help"
-[17:56:01] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50153] logged in with entity id 21 at (2813.406061094403, 70.0, -710.8251103790657)
-[17:56:01] [Server thread/INFO]: _Sebas23_ joined the game
-[18:02:46] [Server thread/INFO]: chepaboy[/100.80.73.88:60277] logged in with entity id 2309 at (2839.6200380145433, 70.79673560066871, -740.2806775997456)
-[18:02:46] [Server thread/INFO]: chepaboy joined the game
-[18:10:26] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[18:10:26] [Server thread/INFO]: _Sebas23_ left the game
-[18:10:28] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50211] logged in with entity id 4766 at (2788.2582627714883, 63.0, -961.1558484254917)
-[18:10:28] [Server thread/INFO]: _Sebas23_ joined the game
-[18:16:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2278, y=64, z=-634} jd{x=2278, y=62, z=-634}
-[18:16:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2278, y=64, z=-633} jd{x=2278, y=62, z=-633}
-[18:16:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2282, y=65, z=-634} jd{x=2282, y=64, z=-634}
-[18:16:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2283, y=65, z=-634} jd{x=2282, y=65, z=-634}
-[18:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2280, y=65, z=-637} jd{x=2280, y=65, z=-638}
-[18:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2280, y=65, z=-637} jd{x=2280, y=65, z=-638}
-[18:18:32] [Server thread/INFO]: [Not Secure] <chepaboy> 2304 -648
-[18:31:59] [Server thread/INFO]: [Not Secure] <_Sebas23_> kick chepaboy
-[18:32:10] [Server thread/INFO]: Villager cmk['Farmer'/9481, l='ServerLevel[world]', x=2809.51, y=70.00, z=-663.30] died, message: 'Farmer was slain by Vex'
-[18:32:30] [Server thread/INFO]: Villager cmk['Villager'/9472, l='ServerLevel[world]', x=2808.02, y=70.00, z=-673.30] died, message: 'Villager was slain by Vex'
-[18:34:34] [Server thread/INFO]: Villager cmk['Villager'/9473, l='ServerLevel[world]', x=2807.30, y=70.00, z=-673.53] died, message: 'Villager was slain by Vex'
-[18:37:59] [Server thread/INFO]: chepaboy has made the advancement [Crafting a New Look]
-[18:40:23] [Server thread/INFO]: [Not Secure] <_Sebas23_> brazzess es gratsi
-[18:41:00] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[18:41:00] [Server thread/INFO]: chepaboy left the game
-[18:41:03] [Server thread/INFO]: chepaboy[/100.80.73.88:62145] logged in with entity id 17127 at (2809.6577194200026, 61.7144175556957, -674.6999999880791)
-[18:41:03] [Server thread/INFO]: chepaboy joined the game
-[18:41:52] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[18:41:52] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[18:41:52] [Server thread/INFO]: chepaboy left the game
-[18:41:52] [Server thread/WARN]: handleDisconnection() called twice
-[18:42:00] [Server thread/INFO]: chepaboy[/100.80.73.88:62190] logged in with entity id 17338 at (2813.7182807102727, 73.66610926093821, -672.7020854712706)
-[18:42:00] [Server thread/INFO]: chepaboy joined the game
-[18:46:18] [Server thread/WARN]: chepaboy moved too quickly! -7.130995033704949,1.0013359791121417,7.009487012454201
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.22434031920010966,0.0,-10.321667219916549
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.2715603164356253,0.0,-10.717875289735616
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.3202005179145999,0.0,-11.113988145139388
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.3701567949692617,0.0,-11.510009399261094
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.42133163805874574,0.0,-11.90594286643966
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.4736334953208825,0.0,-12.301792545824014
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.526976179599842,0.0,-12.697562617793437
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.5812783324399788,0.0,-13.093257429559685
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.6364667289049066,0.0,-13.488880882437343
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.6924716779330993,0.0,-13.884437079930763
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.7492304566399071,0.0,-14.279929704017832
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.8066828262758463,0.0,-14.67536267197545
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.8647745715020392,0.0,-15.070739505627671
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 0.9234531117576807,0.0,-15.466063978112857
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.4718862696990982,0.0,-10.282780623982035
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.5257301400729375,0.0,-10.67879713515049
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.5754472790827094,0.0,-11.075192207300006
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.620580027084543,0.0,-11.471945884343427
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.6608083403525598,0.0,-11.869022272255165
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.6959171624603187,0.0,-12.266375975743017
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.725789908407478,0.0,-12.663957075413691
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.7510766300870273,0.0,-13.06174809175343
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.7730485644533474,0.0,-13.459752269828869
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.793471383367887,0.0,-13.857950770779553
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.813783983509893,0.0,-14.256282725909273
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.8351570426207218,0.0,-14.654661811360029
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.8585233320009138,0.0,-15.052989138759813
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.8846130392630585,0.0,-15.451162379487528
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.9139933395399567,0.0,-15.849080832366099
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.947085082304966,0.0,-16.24665086375444
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 1.9841892452191132,0.0,-16.643788099069752
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.0255106862464345,0.0,-17.0404181285586
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.0711719312116657,0.0,-17.436477675207243
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.12122556257782,0.0,-17.831915165298824
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.175669060175096,0.0,-18.226689863557
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.234454358995663,0.0,-18.620771500832234
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.2975001168902054,0.0,-19.014138646343667
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.3646952732515274,0.0,-19.40677883712067
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.435909629766684,0.0,-19.79868654128302
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.5109959271694606,0.0,-20.18986312803338
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.5897990671087427,0.0,-20.580314605476246
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.672153330023775,0.0,-20.97005266547012
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.7578872212284296,0.0,-21.359093411172466
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.846827806310557,0.0,-21.74745610379614
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 2.9388045841205894,0.0,-22.13516194900876
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 3.0336492946676117,0.0,-22.522234070125478
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 3.131195743432727,0.0,-22.908697476531415
-[18:47:24] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! 3.231283285652353,0.0,-23.294577831993593
-[18:49:17] [Server thread/INFO]: chepaboy lost connection: You logged in from another location
-[18:49:17] [Server thread/INFO]: chepaboy left the game
-[18:49:19] [Server thread/INFO]: chepaboy[/100.80.73.88:62532] logged in with entity id 20900 at (2781.8846828141914, 59.02217126111655, -959.8342194765784)
-[18:49:19] [Server thread/INFO]: chepaboy joined the game
-[18:50:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2860, y=64, z=-864} jd{x=2860, y=64, z=-865}
-[18:50:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=64, z=-871} jd{x=2866, y=63, z=-870}
-[18:51:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2867, y=62, z=-881} jd{x=2868, y=60, z=-881}
-[18:51:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-880} jd{x=2865, y=60, z=-880}
-[18:51:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-880} jd{x=2865, y=60, z=-880}
-[18:51:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2870, y=62, z=-876} jd{x=2871, y=61, z=-877}
-[18:51:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2870, y=62, z=-876} jd{x=2871, y=61, z=-877}
-[18:51:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-875} jd{x=2864, y=61, z=-875}
-[18:51:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-875} jd{x=2864, y=61, z=-875}
-[18:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-875} jd{x=2864, y=61, z=-875}
-[18:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-875} jd{x=2864, y=61, z=-875}
-[18:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-875} jd{x=2864, y=61, z=-875}
-[18:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-875} jd{x=2864, y=61, z=-875}
-[18:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2865, y=62, z=-875} jd{x=2864, y=61, z=-875}
-[18:51:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2862, y=63, z=-873} jd{x=2864, y=62, z=-872}
-[18:51:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2861, y=62, z=-879} jd{x=2862, y=61, z=-877}
-[18:51:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2861, y=62, z=-879} jd{x=2862, y=61, z=-877}
-[18:52:12] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[18:52:12] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[18:52:12] [Server thread/INFO]: chepaboy left the game
-[18:52:21] [Server thread/INFO]: chepaboy[/100.80.73.88:62678] logged in with entity id 23409 at (2787.322547281303, 64.06383597911214, -961.714273388336)
-[18:52:21] [Server thread/INFO]: chepaboy joined the game
-[18:53:24] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[18:53:24] [Server thread/INFO]: chepaboy left the game
-[18:53:34] [Server thread/INFO]: chepaboy[/100.80.73.88:62746] logged in with entity id 24328 at (2778.6807499122224, 60.19500004768371, -959.7063162489245)
-[18:53:34] [Server thread/INFO]: chepaboy joined the game
-[19:03:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2863, y=66, z=-847} jd{x=2862, y=65, z=-847}
-[19:03:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2864, y=66, z=-848} jd{x=2863, y=64, z=-849}
-[19:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2854, y=64, z=-865} jd{x=2855, y=63, z=-865}
-[19:05:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> FITO
-[19:08:11] [Server thread/WARN]: chepaboy moved too quickly! -4.563640961117528,-3.0,8.452255089606354
-[19:08:41] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:08:41] [Server thread/INFO]: chepaboy left the game
-[19:08:44] [Server thread/INFO]: chepaboy[/100.80.73.88:63481] logged in with entity id 33319 at (423.69999998807907, 45.121296840539195, -167.49639765048357)
-[19:08:44] [Server thread/INFO]: chepaboy joined the game
-[19:09:26] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[19:09:26] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[19:09:26] [Server thread/INFO]: chepaboy left the game
-[19:09:33] [Server thread/INFO]: chepaboy[/100.80.73.88:63522] logged in with entity id 33440 at (483.6513646959222, 42.00133597911215, -180.98348020928725)
-[19:09:33] [Server thread/INFO]: chepaboy joined the game
-[19:10:52] [Server thread/WARN]: chepaboy moved too quickly! 8.77885170145612,4.823240724935758,-0.7307687804577085
-[19:12:48] [Server thread/WARN]: chepaboy moved too quickly! 9.73163502593195,1.8338907390617862,-1.6564667346057718
-[19:13:25] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:13:25] [Server thread/INFO]: chepaboy left the game
-[19:13:28] [Server thread/INFO]: chepaboy[/100.80.73.88:63707] logged in with entity id 34104 at (634.5495543017081, 58.0, -70.00382594846413)
-[19:13:28] [Server thread/INFO]: chepaboy joined the game
-[19:14:11] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:14:11] [Server thread/INFO]: chepaboy left the game
-[19:14:13] [Server thread/INFO]: chepaboy[/100.80.73.88:63762] logged in with entity id 34247 at (659.7224272474963, 65.0, -78.30000001192093)
-[19:14:13] [Server thread/INFO]: chepaboy joined the game
-[19:14:25] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:14:25] [Server thread/INFO]: chepaboy left the game
-[19:14:26] [Server thread/INFO]: chepaboy[/100.80.73.88:63776] logged in with entity id 34269 at (660.961853781611, 65.0, -78.63433060821849)
-[19:14:26] [Server thread/INFO]: chepaboy joined the game
-[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
-[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
-[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
-[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
-[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
-[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
-[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=763, y=45, z=45} jd{x=775, y=66, z=89}
-[19:25:12] [Server thread/WARN]: chepaboy moved too quickly! -0.8435277990564032,0.23152379758701613,-10.077987655064703
-[19:25:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=455, y=69, z=511} jd{x=455, y=68, z=510}
-[19:25:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=460, y=71, z=497} jd{x=460, y=69, z=499}
-[19:26:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=460, y=59, z=512} jd{x=453, y=58, z=479}
-[19:27:24] [Server thread/WARN]: chepaboy moved wrongly!
-[19:27:47] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[19:27:47] [Server thread/INFO]: _Sebas23_ left the game
-[19:27:55] [Server thread/INFO]: Stopping the server
-[19:27:55] [Server thread/INFO]: Stopping server
-[19:27:55] [Server thread/INFO]: Saving players
-[19:27:55] [Server thread/INFO]: Saving worlds
-[19:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:33:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:33:25] [ServerMain/INFO]: Loaded 1290 recipes
+[00:33:26] [ServerMain/INFO]: Loaded 1399 advancements
+[00:33:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:33:26] [Server thread/INFO]: Loading properties
+[00:33:26] [Server thread/INFO]: Default game type: SURVIVAL
+[00:33:26] [Server thread/INFO]: Generating keypair
+[00:33:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:33:27] [Server thread/INFO]: Using epoll channel type
+[00:33:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:33:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:33:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:33:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:33:27] [Server thread/INFO]: Preparing level "world"
+[00:33:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:33:34] [Server thread/INFO]: Time elapsed: 1079 ms
+[00:33:34] [Server thread/INFO]: Done (6.915s)! For help, type "help"
+[00:33:47] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54324] logged in with entity id 21 at (420.63847452916406, 57.0, 338.30591096566917)
+[00:33:47] [Server thread/INFO]: _Sebas23_ joined the game
+[00:36:12] [Server thread/INFO]: chepaboy[/100.80.73.88:49853] logged in with entity id 579 at (417.30000001192093, 57.0, 338.3955126887673)
+[00:36:12] [Server thread/INFO]: chepaboy joined the game
+[00:38:13] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[00:38:13] [Server thread/INFO]: chepaboy left the game
+[00:38:17] [Server thread/INFO]: chepaboy[/100.80.73.88:49972] logged in with entity id 826 at (406.2544862156573, 57.0, 337.2218610116144)
+[00:38:17] [Server thread/INFO]: chepaboy joined the game
+[00:38:48] [Server thread/WARN]: chepaboy moved too quickly! -0.19261952847881503,0.0,10.196192803641225
+[00:38:59] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[00:38:59] [Server thread/INFO]: chepaboy left the game
+[00:39:02] [Server thread/INFO]: chepaboy[/100.80.73.88:50041] logged in with entity id 984 at (436.26449444904443, 57.0, 382.9075577355921)
+[00:39:02] [Server thread/INFO]: chepaboy joined the game
+[00:39:32] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[00:39:32] [Server thread/INFO]: chepaboy left the game
+[00:39:36] [Server thread/INFO]: chepaboy[/100.80.73.88:50079] logged in with entity id 1068 at (429.54362718342713, 63.0, 446.41572192440105)
+[00:39:36] [Server thread/INFO]: chepaboy joined the game
+[00:40:27] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[00:40:27] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[00:40:27] [Server thread/INFO]: chepaboy left the game
+[00:40:35] [Server thread/INFO]: chepaboy[/100.80.73.88:50129] logged in with entity id 1169 at (413.3840950864542, 76.00133597911214, 443.4974786243959)
+[00:40:35] [Server thread/INFO]: chepaboy joined the game
