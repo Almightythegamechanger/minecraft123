@@ -74,3 +74,18 @@
 [05:10:21] [Server thread/INFO]: _Sebas23_ left the game
 [05:10:23] [Server thread/INFO]: _Sebas23_[/100.93.67.125:26346] logged in with entity id 27345 at (2768.5443034408295, 64.0, -738.5966813243554)
 [05:10:23] [Server thread/INFO]: _Sebas23_ joined the game
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2907, y=62, z=-827} jd{x=2907, y=60, z=-827}
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2907, y=62, z=-827} jd{x=2907, y=60, z=-827}
+[05:30:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2907, y=61, z=-832} jd{x=2907, y=59, z=-832}
+[05:33:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2910, y=62, z=-897} jd{x=2911, y=60, z=-897}
+[05:33:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2909, y=62, z=-897} jd{x=2909, y=60, z=-896}
+[05:33:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2909, y=62, z=-895} jd{x=2907, y=60, z=-895}
+[05:33:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2909, y=62, z=-895} jd{x=2907, y=60, z=-895}
+[05:33:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2908, y=62, z=-897} jd{x=2909, y=60, z=-897}
+[05:33:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2908, y=62, z=-897} jd{x=2909, y=60, z=-897}
+[05:33:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2908, y=62, z=-897} jd{x=2909, y=60, z=-897}
+[05:34:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2911, y=62, z=-910} jd{x=2911, y=60, z=-911}
+[05:34:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2911, y=62, z=-910} jd{x=2911, y=60, z=-911}
+[05:34:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2911, y=62, z=-910} jd{x=2911, y=60, z=-911}
+[05:34:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2911, y=62, z=-910} jd{x=2911, y=60, z=-911}
+[05:34:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2911, y=62, z=-910} jd{x=2911, y=60, z=-911}
