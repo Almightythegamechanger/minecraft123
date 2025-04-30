@@ -27,3 +27,28 @@
 [03:47:58] [Server thread/INFO]: [Not Secure] <_Sebas23_> Espera
 [03:52:26] [Server thread/INFO]: [Not Secure] <_Sebas23_> hpa
 [03:52:36] [Server thread/INFO]: [Not Secure] <_Sebas23_> hpa
+[03:56:27] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:28] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:28] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:28] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
+[03:56:28] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
+[03:56:29] [Server thread/INFO]: [Not Secure] <chepaboy> ZZZ
+[03:56:29] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:29] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
+[03:56:30] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
+[03:56:30] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:30] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:30] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:31] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[03:56:31] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:56:31] [Server thread/INFO]: chepaboy lost connection: Kicked for spamming
+[03:56:31] [Server thread/INFO]: chepaboy left the game
+[03:56:31] [Server thread/WARN]: handleDisconnection() called twice
+[03:56:37] [Server thread/INFO]: chepaboy[/100.80.73.88:61733] logged in with entity id 5848 at (2821.5, 70.0, -699.5)
+[03:56:37] [Server thread/INFO]: chepaboy joined the game
+[03:58:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2823, y=59, z=-846} jd{x=2823, y=58, z=-845}
+[03:58:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2823, y=59, z=-846} jd{x=2823, y=58, z=-845}
+[03:58:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2823, y=59, z=-846} jd{x=2823, y=58, z=-845}
+[03:58:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2823, y=59, z=-846} jd{x=2824, y=59, z=-847}
+[03:59:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2823, y=60, z=-842} jd{x=2822, y=59, z=-839}
+[03:59:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2823, y=60, z=-842} jd{x=2822, y=58, z=-838}
