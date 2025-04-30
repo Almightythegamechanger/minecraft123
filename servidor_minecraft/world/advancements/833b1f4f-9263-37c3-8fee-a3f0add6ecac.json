@@ -4475,15 +4475,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-29 06:56:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
       "has_gray_terracotta": "2025-04-29 07:00:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template": {
     "criteria": {
-      "has_red_terracotta": "2025-04-29 06:56:50 +0000"
+      "has_shaper_armor_trim_smithing_template": "2025-04-30 03:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template": {
+    "criteria": {
+      "has_host_armor_trim_smithing_template": "2025-04-30 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-30 03:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-30 03:47:18 +0000"
     },
     "done": true
   },
