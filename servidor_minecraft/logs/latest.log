@@ -41,3 +41,37 @@
 [21:46:57] [Server thread/INFO]: chepaboy lost connection: Disconnected
 [21:46:57] [Server thread/INFO]: chepaboy left the game
 [22:10:55] [Server thread/INFO]: [Not Secure] <_Sebas23_> Xd
+[22:33:05] [Server thread/INFO]: Villager cmk['Villager'/18325, l='ServerLevel[world]', x=2808.66, y=70.00, z=-675.15] died, message: 'Villager was slain by _Sebas23_'
+[22:33:06] [Server thread/INFO]: Villager cmk['Villager'/18318, l='ServerLevel[world]', x=2809.30, y=70.00, z=-675.95] died, message: 'Villager was slain by _Sebas23_'
+[22:33:06] [Server thread/INFO]: Villager cmk['Villager'/18317, l='ServerLevel[world]', x=2807.31, y=70.00, z=-676.03] died, message: 'Villager was slain by _Sebas23_'
+[22:33:07] [Server thread/INFO]: Villager cmk['Villager'/18331, l='ServerLevel[world]', x=2807.44, y=70.00, z=-675.56] died, message: 'Villager was slain by _Sebas23_'
+[22:33:07] [Server thread/INFO]: Villager cmk['Villager'/18337, l='ServerLevel[world]', x=2807.15, y=70.00, z=-675.55] died, message: 'Villager was slain by _Sebas23_'
+[22:33:08] [Server thread/INFO]: Villager cmk['Villager'/18330, l='ServerLevel[world]', x=2807.80, y=70.00, z=-674.11] died, message: 'Villager was slain by _Sebas23_'
+[22:33:08] [Server thread/INFO]: Villager cmk['Villager'/18327, l='ServerLevel[world]', x=2809.18, y=70.00, z=-674.80] died, message: 'Villager was slain by _Sebas23_'
+[22:33:08] [Server thread/INFO]: Villager cmk['Villager'/18333, l='ServerLevel[world]', x=2807.41, y=70.00, z=-674.46] died, message: 'Villager was slain by _Sebas23_'
+[22:33:08] [Server thread/INFO]: Villager cmk['Villager'/18335, l='ServerLevel[world]', x=2808.14, y=70.00, z=-673.84] died, message: 'Villager was slain by _Sebas23_'
+[22:33:09] [Server thread/INFO]: Villager cmk['Villager'/18321, l='ServerLevel[world]', x=2808.92, y=70.00, z=-673.37] died, message: 'Villager was slain by _Sebas23_'
+[22:33:10] [Server thread/INFO]: Villager cmk['Villager'/18326, l='ServerLevel[world]', x=2810.03, y=70.00, z=-673.79] died, message: 'Villager was slain by _Sebas23_'
+[22:33:10] [Server thread/INFO]: Villager cmk['Villager'/18329, l='ServerLevel[world]', x=2809.77, y=70.00, z=-673.47] died, message: 'Villager was slain by _Sebas23_'
+[22:33:10] [Server thread/INFO]: Villager cmk['Villager'/18320, l='ServerLevel[world]', x=2811.37, y=70.00, z=-673.32] died, message: 'Villager was slain by _Sebas23_'
+[22:33:10] [Server thread/INFO]: Villager cmk['Villager'/18319, l='ServerLevel[world]', x=2810.52, y=70.00, z=-673.38] died, message: 'Villager was slain by _Sebas23_'
+[22:33:12] [Server thread/INFO]: Villager cmk['Villager'/18328, l='ServerLevel[world]', x=2809.21, y=71.00, z=-677.53] died, message: 'Villager was slain by _Sebas23_'
+[22:33:12] [Server thread/INFO]: Villager cmk['Villager'/18322, l='ServerLevel[world]', x=2808.59, y=71.00, z=-677.70] died, message: 'Villager was slain by _Sebas23_'
+[22:33:12] [Server thread/INFO]: Villager cmk['Villager'/18324, l='ServerLevel[world]', x=2807.30, y=70.00, z=-677.70] died, message: 'Villager was slain by _Sebas23_'
+[22:33:12] [Server thread/INFO]: Villager cmk['Villager'/18332, l='ServerLevel[world]', x=2807.67, y=71.25, z=-676.51] died, message: 'Villager was slain by _Sebas23_'
+[22:33:12] [Server thread/INFO]: Villager cmk['Villager'/18336, l='ServerLevel[world]', x=2808.66, y=70.00, z=-676.31] died, message: 'Villager was slain by _Sebas23_'
+[22:33:14] [Server thread/INFO]: Villager cmk['Villager'/18323, l='ServerLevel[world]', x=2809.01, y=70.54, z=-676.37] died, message: 'Villager was slain by _Sebas23_'
+[22:33:21] [Server thread/INFO]: Villager cmk['Villager'/18334, l='ServerLevel[world]', x=2807.46, y=70.00, z=-673.49] died, message: 'Villager was slain by _Sebas23_'
+[22:38:07] [Server thread/INFO]: Stopping the server
+[22:38:07] [Server thread/INFO]: Stopping server
+[22:38:07] [Server thread/INFO]: Saving players
+[22:38:07] [Server thread/INFO]: _Sebas23_ lost connection: Server closed
+[22:38:07] [Server thread/INFO]: _Sebas23_ left the game
+[22:38:07] [Server thread/INFO]: Saving worlds
+[22:38:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:38:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:38:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:38:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
