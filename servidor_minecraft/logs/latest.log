@@ -259,3 +259,9 @@
 [04:17:55] [Server thread/INFO]: Villager cmk['Villager'/3467, l='ServerLevel[world]', x=2732.27, y=72.00, z=-734.42] died, message: 'Villager was slain by chepaboy using [Scalibur :V]'
 [04:23:34] [Server thread/INFO]: [Not Secure] <_Sebas23_> 13
 [04:25:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2806, y=69, z=-682} jd{x=2806, y=70, z=-681}
+[04:34:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2641, y=63, z=-896} jd{x=2641, y=65, z=-898}
+[04:37:28] [Server thread/WARN]: _Sebas23_ moved too quickly! 4.723819423195891,0.6453918863861858,8.97457821273747
+[04:37:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2674, y=72, z=-755} jd{x=2673, y=72, z=-755}
+[04:37:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2674, y=72, z=-755} jd{x=2673, y=72, z=-755}
+[04:37:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2674, y=72, z=-755} jd{x=2673, y=72, z=-755}
+[04:38:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2750, y=71, z=-735} jd{x=2749, y=70, z=-735}
