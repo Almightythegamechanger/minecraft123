@@ -289,6 +289,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-01 23:13:06 +0000",
       "bread": "2025-03-21 00:44:59 +0000",
       "golden_apple": "2025-03-21 05:01:26 +0000",
       "honey_bottle": "2025-03-21 04:14:28 +0000",
@@ -4392,6 +4393,24 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-05-01 04:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-01 23:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-01 23:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-01 23:20:22 +0000"
     },
     "done": true
   },
