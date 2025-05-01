@@ -17,18 +17,24 @@
       "minecraft:desert": "2025-03-22 05:01:01 +0000",
       "minecraft:frozen_river": "2025-04-29 06:05:47 +0000",
       "minecraft:ocean": "2025-03-21 06:25:23 +0000",
+      "minecraft:jungle": "2025-05-01 23:40:59 +0000",
       "minecraft:snowy_beach": "2025-04-29 06:06:27 +0000",
+      "minecraft:wooded_badlands": "2025-05-01 23:40:29 +0000",
+      "minecraft:bamboo_jungle": "2025-05-01 23:43:08 +0000",
+      "minecraft:windswept_savanna": "2025-05-01 23:37:47 +0000",
       "minecraft:warm_ocean": "2025-04-09 23:56:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-29 04:54:13 +0000",
       "minecraft:savanna_plateau": "2025-03-22 05:48:04 +0000",
       "minecraft:beach": "2025-03-21 06:11:02 +0000",
       "minecraft:mangrove_swamp": "2025-03-22 05:19:57 +0000",
+      "minecraft:sparse_jungle": "2025-05-01 23:40:52 +0000",
       "minecraft:river": "2025-03-21 00:41:51 +0000",
       "minecraft:lukewarm_ocean": "2025-04-29 05:01:59 +0000",
       "minecraft:stony_shore": "2025-03-21 06:25:11 +0000",
       "minecraft:snowy_plains": "2025-04-29 06:05:55 +0000",
       "minecraft:dripstone_caves": "2025-03-21 01:36:16 +0000",
       "minecraft:snowy_taiga": "2025-04-29 06:06:31 +0000",
+      "minecraft:deep_dark": "2025-05-01 23:54:50 +0000",
       "minecraft:grove": "2025-03-21 06:23:06 +0000",
       "minecraft:savanna": "2025-03-21 06:28:27 +0000",
       "minecraft:plains": "2025-03-21 06:27:19 +0000"
@@ -4411,6 +4417,30 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-05-01 23:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-01 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-05-01 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-01 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-01 23:42:14 +0000"
     },
     "done": true
   },

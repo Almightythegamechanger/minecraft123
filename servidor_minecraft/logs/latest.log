@@ -1,80 +1,85 @@
-[23:04:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:04:22] [ServerMain/INFO]: Loaded 1290 recipes
-[23:04:23] [ServerMain/INFO]: Loaded 1399 advancements
-[23:04:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[23:04:24] [Server thread/INFO]: Loading properties
-[23:04:24] [Server thread/INFO]: Default game type: SURVIVAL
-[23:04:24] [Server thread/INFO]: Generating keypair
-[23:04:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:04:25] [Server thread/INFO]: Using epoll channel type
-[23:04:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:04:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:04:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:04:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:04:25] [Server thread/INFO]: Preparing level "world"
-[23:04:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:04:36] [Server thread/INFO]: Time elapsed: 1847 ms
-[23:04:36] [Server thread/INFO]: Done (11.272s)! For help, type "help"
-[23:05:08] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56374] logged in with entity id 21 at (2816.829088587291, 70.0, -707.1386354005161)
-[23:05:08] [Server thread/INFO]: _Sebas23_ joined the game
-[23:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[23:06:38] [Server thread/WARN]: _Sebas23_ moved too quickly! 5.516787436095456,0.023088109101550458,-8.432407759711623
-[23:06:44] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:45] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:46] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:47] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:47] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:49] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:50] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:51] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:51] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:52] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:06:53] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[23:14:05] [Server thread/INFO]: chepaboy[/100.80.73.88:55852] logged in with entity id 1862 at (2811.2036866564235, 70.0, -681.6561215561306)
-[23:14:05] [Server thread/INFO]: chepaboy joined the game
-[23:17:05] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[23:17:05] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[23:17:05] [Server thread/INFO]: _Sebas23_ left the game
-[23:17:06] [Server thread/WARN]: handleDisconnection() called twice
-[23:17:11] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56427] logged in with entity id 2974 at (2829.947935613813, 72.7531999805212, -696.0219152578993)
-[23:17:11] [Server thread/INFO]: _Sebas23_ joined the game
-[23:18:11] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[23:18:11] [Server thread/INFO]: _Sebas23_ left the game
-[23:18:13] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56431] logged in with entity id 3409 at (2805.1853252585556, 63.231523797587016, -706.0199159853853)
-[23:18:13] [Server thread/INFO]: _Sebas23_ joined the game
-[23:19:00] [Server thread/WARN]: _Sebas23_ moved too quickly! 10.12129179836711,0.17081290814229533,-2.7907344259049296
-[23:19:30] [Server thread/WARN]: _Sebas23_ moved too quickly! -0.08679480015734953,1.8787031594607981,9.890437071789393
-[23:20:10] [Server thread/WARN]: _Sebas23_ moved too quickly! 8.09425464211381,1.835226718173928,-5.723829774396108
-[23:20:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[23:21:03] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[23:21:03] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[23:21:03] [Server thread/INFO]: _Sebas23_ left the game
-[23:21:09] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56439] logged in with entity id 5248 at (2878.9480346649107, 89.25220334025373, -678.212741049343)
-[23:21:09] [Server thread/INFO]: _Sebas23_ joined the game
-[23:21:30] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[23:21:30] [Server thread/INFO]: _Sebas23_ left the game
-[23:21:30] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56449] logged in with entity id 5508 at (2818.016106787645, 71.17675927506424, -699.2010519210396)
-[23:21:30] [Server thread/INFO]: _Sebas23_ joined the game
-[23:22:18] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[23:22:18] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[23:22:18] [Server thread/INFO]: _Sebas23_ left the game
-[23:22:18] [Server thread/WARN]: handleDisconnection() called twice
-[23:22:22] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56455] logged in with entity id 5930 at (2965.4859409267788, 71.24918707874468, -597.4753051614482)
-[23:22:22] [Server thread/INFO]: _Sebas23_ joined the game
-[23:23:13] [Server thread/INFO]: Stopping the server
-[23:23:13] [Server thread/INFO]: Stopping server
-[23:23:13] [Server thread/INFO]: Saving players
-[23:23:14] [Server thread/INFO]: chepaboy lost connection: Server closed
-[23:23:14] [Server thread/INFO]: chepaboy left the game
-[23:23:14] [Server thread/INFO]: Saving worlds
-[23:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:23:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:24:01] [ServerMain/INFO]: Loaded 1290 recipes
+[23:24:01] [ServerMain/INFO]: Loaded 1399 advancements
+[23:24:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:24:02] [Server thread/INFO]: Loading properties
+[23:24:02] [Server thread/INFO]: Default game type: SURVIVAL
+[23:24:02] [Server thread/INFO]: Generating keypair
+[23:24:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:24:02] [Server thread/INFO]: Using epoll channel type
+[23:24:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:24:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:24:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:24:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:24:02] [Server thread/INFO]: Preparing level "world"
+[23:24:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:24:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:24:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:24:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:24:09] [Server thread/INFO]: Time elapsed: 1286 ms
+[23:24:09] [Server thread/INFO]: Done (6.886s)! For help, type "help"
+[23:24:43] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56463] logged in with entity id 21 at (3037.0422025971884, 67.0, -605.5327165300499)
+[23:24:43] [Server thread/INFO]: _Sebas23_ joined the game
+[23:25:56] [Server thread/INFO]: chepaboy[/100.80.73.88:56471] logged in with entity id 562 at (3058.861909942136, 67.0, -607.8112983005404)
+[23:25:56] [Server thread/INFO]: chepaboy joined the game
+[23:29:40] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[23:29:40] [Server thread/INFO]: chepaboy left the game
+[23:31:11] [Server thread/INFO]: chepaboy[/100.80.73.88:56779] logged in with entity id 2488 at (3152.302337911485, 6.0, -203.69999998807907)
+[23:31:11] [Server thread/INFO]: chepaboy joined the game
+[23:32:44] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[23:32:44] [Server thread/INFO]: chepaboy left the game
+[23:33:59] [Server thread/INFO]: chepaboy[/100.80.73.88:56950] logged in with entity id 3284 at (2978.424709767434, 63.0, -296.83096492380866)
+[23:33:59] [Server thread/INFO]: chepaboy joined the game
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.241063694342756,0.017126967199644128,8.104324188149235
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.5729176530931,0.017256228673552698,8.28430412186026
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.909725391130451,0.01736642339560035,8.458340701502834
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 7.251022617955641,0.01745327643553196,8.626929493072566
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 7.596173643230941,0.01751549681059572,8.791195745584218
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 7.944385298116686,0.01755413742547063,8.952745400214212
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 8.29468973293342,0.01757192270821406,9.11354303308201
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 8.646216207092948,0.01757260718660092,9.275161766053088
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 8.998195750356444,0.01756040989939578,9.438842451441246
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 9.349958935566974,0.01753955209105129,9.605549832790075
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 9.700933550008813,0.017513910301765634,9.776015559832217
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 10.050637623224702,0.01748678446845986,9.950779507791594
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 10.398672615609485,0.017460771311540668,10.130222857622698
+[23:38:10] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 10.744715332369196,0.017437727074785414,10.314597162281757
+[23:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[23:38:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> a
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.009579294094692,0.0,8.487350175050778
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.240716976556087,0.0,8.813786708765065
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.471854659396286,0.0,9.14022324222799
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.702992342577545,0.0,9.466659775464791
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 6.934130026065759,0.0,9.79309630849798
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 7.165267709830005,0.0,10.119532841348018
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 7.396405393842997,0.0,10.445969374033211
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 7.62754307807927,0.0,10.77240590656993
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 7.858680762516997,0.0,11.098842438973179
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 8.089818447136167,0.0,11.425278971256148
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 8.320956131918138,0.0,11.751715503431
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 8.552093816846991,0.0,12.078152035508424
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 8.783231501907721,0.0,12.404588567498308
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 9.014369187087595,0.0,12.731025099409294
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 9.245506872374335,0.0,13.057461631249339
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 9.476644557757481,0.0,13.383898163025492
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 9.70778224322703,0.0,13.71033469474412
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 9.938919928774794,0.0,14.03677122641102
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 10.170623705781054,0.0,14.362799443862855
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 10.403893140765831,0.0,14.68765696496439
+[23:38:35] [Server thread/WARN]: Acacia Boat (vehicle of chepaboy) moved too quickly! 10.640029264091027,0.0,15.01025688280697
+[23:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[23:42:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3429, y=78, z=1634} jd{x=3429, y=77, z=1634}
+[23:49:39] [Server thread/INFO]: [Not Secure] <chepaboy> p 3080 -32 1648
+[23:58:44] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[23:58:44] [Server thread/INFO]: chepaboy left the game
+[23:58:57] [Server thread/INFO]: Stopping the server
+[23:58:57] [Server thread/INFO]: Stopping server
+[23:58:57] [Server thread/INFO]: Saving players
+[23:58:57] [Server thread/INFO]: Saving worlds
+[23:58:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
