@@ -1,284 +1,36 @@
-[03:58:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:58:48] [ServerMain/INFO]: Loaded 1290 recipes
-[03:58:48] [ServerMain/INFO]: Loaded 1399 advancements
-[03:58:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:58:50] [Server thread/INFO]: Loading properties
-[03:58:50] [Server thread/INFO]: Default game type: SURVIVAL
-[03:58:50] [Server thread/INFO]: Generating keypair
-[03:58:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:58:50] [Server thread/INFO]: Using epoll channel type
-[03:58:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:58:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:58:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:58:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:58:50] [Server thread/INFO]: Preparing level "world"
-[03:59:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:59:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:59:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:59:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:59:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:59:06] [Server thread/INFO]: Time elapsed: 1732 ms
-[03:59:06] [Server thread/INFO]: Done (15.218s)! For help, type "help"
-[03:59:16] [Server thread/INFO]: _Sebas23_[/100.93.67.125:6167] logged in with entity id 21 at (2780.398764394707, 49.0, -707.0218792913004)
-[03:59:16] [Server thread/INFO]: _Sebas23_ joined the game
-[03:59:54] [Server thread/INFO]: [Not Secure] <_Sebas23_> aparte de pene xd
-[04:00:05] [Server thread/INFO]: chepaboy[/100.80.73.88:64550] logged in with entity id 495 at (2811.5035219055408, 72.0, -679.3309776362184)
-[04:00:05] [Server thread/INFO]: chepaboy joined the game
-[04:00:19] [Server thread/WARN]: chepaboy moved too quickly! -6.650667641678865,0.21735935547664553,-7.792336654159385
-[04:05:12] [Server thread/INFO]: Villager cmk['Leatherworker'/108, l='ServerLevel[world]', x=2822.12, y=70.00, z=-699.41] died, message: 'Leatherworker was slain by chepaboy using [Scalibur :V]'
-[04:05:17] [Server thread/INFO]: Villager cmk['Toolsmith'/107, l='ServerLevel[world]', x=2834.69, y=72.00, z=-699.28] died, message: 'Toolsmith was slain by chepaboy using [Scalibur :V]'
-[04:05:25] [Server thread/INFO]: Villager cmk['Weaponsmith'/109, l='ServerLevel[world]', x=2791.38, y=70.00, z=-662.48] died, message: 'Weaponsmith was slain by _Sebas23_'
-[04:08:15] [Server thread/INFO]: Villager cmk['Villager'/786, l='ServerLevel[world]', x=2791.17, y=72.18, z=-704.62] died, message: 'Villager was slain by chepaboy using [Scalibur :V]'
-[04:08:26] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:26] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:26] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:26] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
-[04:08:27] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:27] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:27] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:28] [Server thread/INFO]: [Not Secure] <chepaboy> ZZZZ
-[04:08:28] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:28] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:28] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
-[04:08:28] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[04:08:33] [Server thread/INFO]: [Not Secure] <_Sebas23_> la tnego veviendo leche
-[04:12:20] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:20] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:21] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:22] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:23] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:24] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:24] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:25] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:26] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:27] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:28] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:28] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:29] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:30] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:31] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:44] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:48] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:49] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:50] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:51] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:52] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:52] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:53] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:54] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:55] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:56] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:56] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:57] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:58] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:12:59] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:00] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:00] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:01] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:02] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:03] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:04] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:04] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:05] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:06] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:07] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:08] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:08] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2817, y=71, z=-727}
-[04:13:09] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:10] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-729} jd{x=2816, y=71, z=-728}
-[04:13:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-729} jd{x=2816, y=71, z=-730}
-[04:13:11] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-730} jd{x=2816, y=71, z=-728}
-[04:13:12] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:12] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-728} jd{x=2816, y=71, z=-730}
-[04:13:13] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:14] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-728} jd{x=2816, y=71, z=-728}
-[04:13:15] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-728} jd{x=2817, y=71, z=-730}
-[04:13:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-728} jd{x=2816, y=71, z=-729}
-[04:13:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-730} jd{x=2816, y=71, z=-729}
-[04:13:16] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-731} jd{x=2816, y=71, z=-730}
-[04:13:16] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-731} jd{x=2817, y=71, z=-730}
-[04:13:17] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:18] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:19] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:20] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:20] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:21] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:22] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:23] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:24] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:25] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:26] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:27] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-731}
-[04:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2817, y=71, z=-727}
-[04:13:28] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:28] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:29] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:30] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:31] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:32] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:32] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:33] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:34] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:35] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:36] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:36] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:37] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:38] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:39] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:40] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:40] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:41] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:42] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:43] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-727} jd{x=2817, y=71, z=-731}
-[04:13:44] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-731} jd{x=2816, y=71, z=-728}
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:13:44] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:45] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:46] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:47] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:48] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-729} jd{x=2816, y=71, z=-728}
-[04:13:48] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:49] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:50] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:51] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-731}
-[04:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2817, y=71, z=-727}
-[04:13:52] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:52] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:53] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:54] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:55] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:56] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:56] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:57] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-727} jd{x=2816, y=71, z=-727}
-[04:13:58] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:13:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-730} jd{x=2816, y=71, z=-728}
-[04:13:59] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:00] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:00] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:01] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:02] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:03] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:04] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:04] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:05] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:06] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:07] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:08] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:08] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:09] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:10] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:11] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:12] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:12] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:13] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:14] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:15] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:16] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:16] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:17] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:18] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:19] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:20] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:20] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:21] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:22] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:23] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:24] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:24] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:25] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:26] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:27] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-728} jd{x=2817, y=71, z=-729}
-[04:14:28] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:28] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:29] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:30] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:31] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:32] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:14:32] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-728}
-[04:14:33] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:34] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:35] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:36] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:36] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:37] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:38] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:39] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:40] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:40] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:41] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:42] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:43] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:44] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:44] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:45] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-730} jd{x=2816, y=71, z=-727}
-[04:14:46] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-730} jd{x=2816, y=71, z=-728}
-[04:14:47] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:48] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:48] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:49] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:50] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:51] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:52] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:53] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:54] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:55] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:56] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:56] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:57] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:58] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:14:59] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:15:00] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:15:00] [Server thread/WARN]: _Sebas23_ moved wrongly!
-[04:17:55] [Server thread/INFO]: Villager cmk['Villager'/3467, l='ServerLevel[world]', x=2732.27, y=72.00, z=-734.42] died, message: 'Villager was slain by chepaboy using [Scalibur :V]'
-[04:23:34] [Server thread/INFO]: [Not Secure] <_Sebas23_> 13
-[04:25:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2806, y=69, z=-682} jd{x=2806, y=70, z=-681}
-[04:34:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2641, y=63, z=-896} jd{x=2641, y=65, z=-898}
-[04:37:28] [Server thread/WARN]: _Sebas23_ moved too quickly! 4.723819423195891,0.6453918863861858,8.97457821273747
-[04:37:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2674, y=72, z=-755} jd{x=2673, y=72, z=-755}
-[04:37:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2674, y=72, z=-755} jd{x=2673, y=72, z=-755}
-[04:37:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2674, y=72, z=-755} jd{x=2673, y=72, z=-755}
-[04:38:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2750, y=71, z=-735} jd{x=2749, y=70, z=-735}
-[04:41:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> d
-[04:41:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[04:46:23] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[04:46:23] [Server thread/INFO]: _Sebas23_ left the game
-[04:46:28] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[04:46:28] [Server thread/INFO]: chepaboy left the game
-[04:46:31] [Server thread/INFO]: Stopping the server
-[04:46:31] [Server thread/INFO]: Stopping server
-[04:46:31] [Server thread/INFO]: Saving players
-[04:46:31] [Server thread/INFO]: Saving worlds
-[04:46:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:46:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:46:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:46:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:46:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:46:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:46:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:04:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:04:22] [ServerMain/INFO]: Loaded 1290 recipes
+[23:04:23] [ServerMain/INFO]: Loaded 1399 advancements
+[23:04:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:04:24] [Server thread/INFO]: Loading properties
+[23:04:24] [Server thread/INFO]: Default game type: SURVIVAL
+[23:04:24] [Server thread/INFO]: Generating keypair
+[23:04:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:04:25] [Server thread/INFO]: Using epoll channel type
+[23:04:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:04:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:04:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:04:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:04:25] [Server thread/INFO]: Preparing level "world"
+[23:04:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:04:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:04:36] [Server thread/INFO]: Time elapsed: 1847 ms
+[23:04:36] [Server thread/INFO]: Done (11.272s)! For help, type "help"
+[23:05:08] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56374] logged in with entity id 21 at (2816.829088587291, 70.0, -707.1386354005161)
+[23:05:08] [Server thread/INFO]: _Sebas23_ joined the game
+[23:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[23:06:38] [Server thread/WARN]: _Sebas23_ moved too quickly! 5.516787436095456,0.023088109101550458,-8.432407759711623
+[23:06:44] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:45] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:46] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:47] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:47] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:49] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:50] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:51] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:51] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:52] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[23:06:53] [Server thread/WARN]: _Sebas23_ moved wrongly!
