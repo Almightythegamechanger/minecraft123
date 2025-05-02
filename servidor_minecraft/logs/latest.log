@@ -113,3 +113,80 @@
 [04:45:43] [Server thread/INFO]: chepaboy left the game
 [04:45:45] [Server thread/INFO]: chepaboy[/100.80.73.88:61015] logged in with entity id 10943 at (2793.3231797122844, -4.464159374955445, 1685.7482599416176)
 [04:45:45] [Server thread/INFO]: chepaboy joined the game
+[04:47:50] [Server thread/WARN]: chepaboy moved too quickly! -0.24469898699589976,-4.0,-9.378496648277633
+[04:49:13] [Server thread/WARN]: chepaboy moved too quickly! 4.5646419679560495,-7.06670669912576,-5.972422546922189
+[04:49:19] [Server thread/WARN]: chepaboy moved too quickly! 0.38672236468528354,3.024424088213692,-9.624009064502161
+[04:52:41] [Server thread/INFO]: [Not Secure] <_Sebas23_> pene
+[04:53:41] [Server thread/WARN]: chepaboy moved too quickly! -10.024255431304027,0.0,0.7747781388986823
+[04:55:41] [Server thread/WARN]: chepaboy moved too quickly! -0.3547926928540619,2.0,-9.955740840888893
+[04:57:22] [Server thread/WARN]: chepaboy moved too quickly! -1.1930618475953452,-0.9769118908984495,-10.074618918523697
+[04:57:32] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[04:57:32] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[04:57:32] [Server thread/INFO]: chepaboy left the game
+[04:57:38] [Server thread/INFO]: chepaboy[/100.80.73.88:61656] logged in with entity id 17162 at (2591.5603222477253, 64.16610926093821, 507.5610278441531)
+[04:57:38] [Server thread/INFO]: chepaboy joined the game
+[04:58:13] [Server thread/WARN]: chepaboy moved too quickly! -1.4469126949056772,-5.576872214182792,-8.25276401066651
+[05:00:34] [Server thread/WARN]: chepaboy moved too quickly! 6.250178643826985,-2.121296840539202,-7.85023590255409
+[05:01:35] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[05:01:35] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[05:01:35] [Server thread/INFO]: chepaboy left the game
+[05:01:42] [Server thread/INFO]: chepaboy[/100.80.73.88:61869] logged in with entity id 21453 at (2470.322516447344, 69.00133597911214, -366.4996800718816)
+[05:01:42] [Server thread/INFO]: chepaboy joined the game
+[05:01:52] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[05:01:52] [Server thread/INFO]: chepaboy left the game
+[05:01:56] [Server thread/INFO]: chepaboy[/100.80.73.88:61889] logged in with entity id 21838 at (2472.8879200573156, 69.0, -372.29839040954704)
+[05:01:56] [Server thread/INFO]: chepaboy joined the game
+[05:02:44] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[05:02:44] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[05:02:44] [Server thread/INFO]: chepaboy left the game
+[05:02:55] [Server thread/INFO]: chepaboy[/100.80.73.88:61952] logged in with entity id 22599 at (2603.783297085588, 65.16610926093821, -496.30858877152576)
+[05:02:55] [Server thread/INFO]: chepaboy joined the game
+[05:03:43] [Server thread/WARN]: chepaboy moved too quickly! 7.2446444389593125,1.0244240882136921,-6.986742033894984
+[05:03:54] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[05:03:54] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[05:03:54] [Server thread/INFO]: chepaboy left the game
+[05:03:54] [Server thread/WARN]: handleDisconnection() called twice
+[05:04:21] [Server thread/INFO]: chepaboy[/100.80.73.88:62016] logged in with entity id 23278 at (2797.102126221076, 71.00133597911214, -698.4944945579139)
+[05:04:21] [Server thread/INFO]: chepaboy joined the game
+[05:05:17] [Server thread/WARN]: chepaboy moved too quickly! 0.5505951770146567,-11.373643137060881,-0.18124052834014037
+[05:05:29] [Server thread/WARN]: chepaboy moved too quickly! 1.0538908636899578,-10.881093721564923,1.4486799491857028
+[05:06:19] [Server thread/WARN]: chepaboy moved too quickly! 2.8250164413934726,0.3739040364667261,-9.721422306520594
+[05:09:53] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:54] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:54] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:55] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:56] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:57] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:58] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:58] [Server thread/WARN]: chepaboy moved wrongly!
+[05:09:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-727} jd{x=2816, y=71, z=-727}
+[05:09:59] [Server thread/WARN]: chepaboy moved wrongly!
+[05:10:00] [Server thread/WARN]: chepaboy moved wrongly!
+[05:10:41] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[05:10:41] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:10:41] [Server thread/INFO]: _Sebas23_ left the game
+[05:10:45] [Server thread/INFO]: _Sebas23_[/100.93.67.125:7839] logged in with entity id 24901 at (2828.2586477132268, 70.0, -732.234006364768)
+[05:10:45] [Server thread/INFO]: _Sebas23_ joined the game
+[05:13:14] [Server thread/WARN]: Oak Boat (vehicle of chepaboy) moved wrongly! 1.0346850918484733
+[05:13:14] [Server thread/WARN]: Oak Boat (vehicle of chepaboy) moved wrongly! 1.0857028103638413
+[05:13:14] [Server thread/WARN]: Oak Boat (vehicle of chepaboy) moved wrongly! 1.1377968459757994
+[05:13:52] [Server thread/INFO]: chepaboy lost connection: You logged in from another location
+[05:13:52] [Server thread/INFO]: chepaboy left the game
+[05:13:54] [Server thread/INFO]: chepaboy[/100.80.73.88:62521] logged in with entity id 26338 at (2791.24682268862, 69.0, -960.4440578675886)
+[05:13:54] [Server thread/INFO]: chepaboy joined the game
+[05:15:55] [Server thread/WARN]: chepaboy moved too quickly! 0.49018619997377755,10.222457792977877,-0.19481283351285583
+[05:16:09] [Server thread/WARN]: chepaboy moved too quickly! -9.952822662105518,0.9169221821935309,-1.2097397376348908
+[05:16:47] [Server thread/WARN]: chepaboy moved too quickly! 0.0,9.996000194548884,0.39455021740081975
+[05:16:55] [Server thread/INFO]: [Not Secure] <_Sebas23_> Q fue
+[05:17:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> tas con ese cabron es un insecto un puerco estoy que lo sucuestro
+[05:17:19] [Server thread/INFO]: Stopping the server
+[05:17:19] [Server thread/INFO]: Stopping server
+[05:17:19] [Server thread/INFO]: Saving players
+[05:17:19] [Server thread/INFO]: Saving worlds
+[05:17:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:17:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:17:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:17:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:17:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:17:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:17:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
