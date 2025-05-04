@@ -24,3 +24,6 @@
 [01:54:34] [Server thread/INFO]: _Sebas23_ joined the game
 [01:56:40] [Server thread/INFO]: [Not Secure] <_Sebas23_> me esucchas
 [01:56:42] [Server thread/INFO]: [Not Secure] <chepaboy> nee
+[02:00:41] [Server thread/WARN]: chepaboy moved too quickly! 0.5753059807830141,-10.998725361796033,0.00602675299069233
+[02:11:47] [Server thread/INFO]: [Not Secure] <_Sebas23_> 3343 549
+[02:14:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3364, y=57, z=468} jd{x=3362, y=59, z=468}
