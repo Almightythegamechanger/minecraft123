@@ -1,30 +1,63 @@
-[04:20:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:20:35] [ServerMain/INFO]: Loaded 1290 recipes
-[04:20:35] [ServerMain/INFO]: Loaded 1399 advancements
-[04:20:36] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[04:20:36] [Server thread/INFO]: Loading properties
-[04:20:36] [Server thread/INFO]: Default game type: SURVIVAL
-[04:20:36] [Server thread/INFO]: Generating keypair
-[04:20:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:20:36] [Server thread/INFO]: Using epoll channel type
-[04:20:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:20:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:20:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:20:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:20:36] [Server thread/INFO]: Preparing level "world"
-[04:20:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:20:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:20:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:20:46] [Server thread/INFO]: Time elapsed: 977 ms
-[04:20:46] [Server thread/INFO]: Done (9.423s)! For help, type "help"
-[04:21:13] [Server thread/INFO]: Stopping the server
-[04:21:13] [Server thread/INFO]: Stopping server
-[04:21:13] [Server thread/INFO]: Saving players
-[04:21:13] [Server thread/INFO]: Saving worlds
-[04:21:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:21:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:21:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:04:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:04:09] [ServerMain/INFO]: Loaded 1290 recipes
+[20:04:10] [ServerMain/INFO]: Loaded 1399 advancements
+[20:04:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:04:11] [Server thread/INFO]: Loading properties
+[20:04:11] [Server thread/INFO]: Default game type: SURVIVAL
+[20:04:11] [Server thread/INFO]: Generating keypair
+[20:04:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:04:12] [Server thread/INFO]: Using epoll channel type
+[20:04:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:04:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:04:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:04:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:04:12] [Server thread/INFO]: Preparing level "world"
+[20:04:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[20:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[20:04:21] [Server thread/INFO]: Time elapsed: 1681 ms
+[20:04:21] [Server thread/INFO]: Done (9.677s)! For help, type "help"
+[20:04:36] [Server thread/INFO]: _Sebas23_[/100.93.67.125:33363] logged in with entity id 21 at (2824.5845376441816, 65.0, -746.3000000119209)
+[20:04:36] [Server thread/INFO]: _Sebas23_ joined the game
+[20:07:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2709, y=72, z=-728} jd{x=2707, y=71, z=-731}
+[20:07:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2709, y=72, z=-728} jd{x=2707, y=71, z=-731}
+[20:07:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2709, y=72, z=-728} jd{x=2707, y=71, z=-731}
+[20:07:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2722, y=70, z=-722} jd{x=2720, y=71, z=-723}
+[20:07:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2722, y=70, z=-722} jd{x=2720, y=71, z=-723}
+[20:07:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2722, y=70, z=-722} jd{x=2720, y=71, z=-723}
+[20:07:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2722, y=70, z=-722} jd{x=2720, y=71, z=-723}
+[20:07:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2722, y=70, z=-722} jd{x=2720, y=71, z=-723}
+[20:11:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2707, y=73, z=-705} jd{x=2706, y=72, z=-705}
+[20:11:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2715, y=74, z=-698} jd{x=2714, y=72, z=-697}
+[20:12:51] [Server thread/INFO]: chepaboy[/100.80.73.88:51572] logged in with entity id 5288 at (2736.5401541644605, 64.0, -667.2537164928403)
+[20:12:51] [Server thread/INFO]: chepaboy joined the game
+[20:12:59] [Server thread/INFO]: [Not Secure] <_Sebas23_> BROP ENTRASTES Y ME DIO LAG
+[20:13:01] [Server thread/INFO]: [Not Secure] <_Sebas23_> DC
+[20:13:02] [Server thread/INFO]: [Not Secure] <_Sebas23_> DC
+[20:13:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> CDC
+[20:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2694, y=71, z=-698} jd{x=2693, y=70, z=-698}
+[20:14:08] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[20:14:08] [Server thread/INFO]: _Sebas23_ left the game
+[20:14:56] [Server thread/INFO]: _Sebas23_[/100.93.67.125:33415] logged in with entity id 5988 at (2736.957490581258, 69.0, -692.9061500404714)
+[20:14:56] [Server thread/INFO]: _Sebas23_ joined the game
+[20:14:58] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:14:58] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:14:59] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:14:59] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:14:59] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[20:15:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> ME ESUCCHAS?
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=68, z=-695} jd{x=2756, y=69, z=-698}
+[20:16:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=2735, y=69, z=-657}
+[20:17:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2738, y=59, z=-665} jd{x=2738, y=60, z=-665}
+[20:21:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2692, y=71, z=-676} jd{x=2692, y=70, z=-677}
+[20:23:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2699, y=71, z=-694} jd{x=2698, y=70, z=-694}
+[20:23:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2699, y=74, z=-687} jd{x=2699, y=71, z=-686}
