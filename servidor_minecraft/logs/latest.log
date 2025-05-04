@@ -354,3 +354,7 @@
 [23:44:21] [Server thread/INFO]: chepaboy left the game
 [23:44:25] [Server thread/INFO]: chepaboy[/100.80.73.88:61943] logged in with entity id 87703 at (1072.4601702536852, 38.0, -393.06044043410105)
 [23:44:25] [Server thread/INFO]: chepaboy joined the game
+[23:46:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1068, y=88, z=-290} jd{x=1067, y=87, z=-290}
+[23:46:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1068, y=88, z=-290} jd{x=1067, y=87, z=-290}
+[23:46:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1061, y=74, z=-328} jd{x=1072, y=88, z=-288}
+[23:47:47] [Server thread/INFO]: [Not Secure] <_Sebas23_> 350 -82
