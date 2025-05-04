@@ -12,6 +12,7 @@
       "minecraft:forest": "2025-03-20 23:49:32 +0000",
       "minecraft:taiga": "2025-03-20 23:44:57 +0000",
       "minecraft:deep_ocean": "2025-04-23 06:28:23 +0000",
+      "minecraft:lush_caves": "2025-05-04 02:21:58 +0000",
       "minecraft:deep_cold_ocean": "2025-04-29 06:01:22 +0000",
       "minecraft:frozen_ocean": "2025-04-23 06:36:36 +0000",
       "minecraft:desert": "2025-03-22 05:01:01 +0000",
@@ -4585,6 +4586,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-05-04 02:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-04 02:23:38 +0000"
     },
     "done": true
   },

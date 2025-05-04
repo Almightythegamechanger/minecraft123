@@ -13,6 +13,7 @@
       "minecraft:forest": "2025-03-21 00:27:53 +0000",
       "minecraft:taiga": "2025-03-20 23:46:12 +0000",
       "minecraft:deep_ocean": "2025-04-23 06:28:22 +0000",
+      "minecraft:lush_caves": "2025-05-04 02:21:55 +0000",
       "minecraft:deep_cold_ocean": "2025-04-29 06:01:22 +0000",
       "minecraft:frozen_ocean": "2025-04-23 06:36:22 +0000",
       "minecraft:desert": "2025-03-22 05:00:10 +0000",
@@ -4695,6 +4696,24 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-05-02 04:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 02:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 02:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-04 02:23:59 +0000"
     },
     "done": true
   },
