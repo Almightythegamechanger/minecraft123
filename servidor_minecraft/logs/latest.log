@@ -83,3 +83,6 @@
 [02:47:37] [Server thread/WARN]: _Sebas23_ moved wrongly!
 [02:47:38] [Server thread/WARN]: _Sebas23_ moved wrongly!
 [02:47:39] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[03:06:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2770, y=70, z=-681} jd{x=2771, y=70, z=-681}
+[03:08:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2723, y=59, z=-684} jd{x=2723, y=58, z=-684}
+[03:08:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2720, y=57, z=-684} jd{x=2722, y=56, z=-684}
