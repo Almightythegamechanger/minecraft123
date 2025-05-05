@@ -23,3 +23,9 @@
 [03:08:06] [Server thread/INFO]: _Sebas23_ joined the game
 [03:16:59] [Server thread/INFO]: chepaboy[/100.80.73.88:54490] logged in with entity id 3030 at (2640.300000011921, 63.0, -897.7624999880791)
 [03:16:59] [Server thread/INFO]: chepaboy joined the game
+[03:31:00] [Server thread/INFO]: _Sebas23_ has made the advancement [Crafting a New Look]
+[03:33:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2859, y=28, z=-656} jd{x=2858, y=28, z=-656}
+[03:33:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2859, y=28, z=-656} jd{x=2858, y=28, z=-656}
+[03:41:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2856, y=-10, z=-568} jd{x=2892, y=-50, z=-608}
+[03:41:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2856, y=-10, z=-568} jd{x=2892, y=-50, z=-608}
+[03:42:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2926, y=-28, z=-614} jd{x=2927, y=-28, z=-602}
