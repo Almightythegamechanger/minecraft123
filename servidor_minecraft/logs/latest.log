@@ -29,3 +29,18 @@
 [03:41:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2856, y=-10, z=-568} jd{x=2892, y=-50, z=-608}
 [03:41:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2856, y=-10, z=-568} jd{x=2892, y=-50, z=-608}
 [03:42:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2926, y=-28, z=-614} jd{x=2927, y=-28, z=-602}
+[04:08:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2812, y=70, z=-675} jd{x=2814, y=70, z=-701}
+[04:23:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2729, y=48, z=-707} jd{x=2774, y=49, z=-705}
+[04:24:20] [Server thread/INFO]: Stopping the server
+[04:24:20] [Server thread/INFO]: Stopping server
+[04:24:20] [Server thread/INFO]: Saving players
+[04:24:20] [Server thread/INFO]: _Sebas23_ lost connection: Server closed
+[04:24:20] [Server thread/INFO]: _Sebas23_ left the game
+[04:24:20] [Server thread/INFO]: Saving worlds
+[04:24:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:24:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:24:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:24:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:24:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:24:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:24:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
