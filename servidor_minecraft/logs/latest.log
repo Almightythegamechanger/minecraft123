@@ -22,3 +22,5 @@
 [16:02:37] [Server thread/INFO]: _Sebas23_ joined the game
 [16:15:33] [Server thread/INFO]: Villager cmk['Villager'/4291, l='ServerLevel[world]', x=2797.70, y=70.00, z=-691.30] died, message: 'Villager was slain by _Sebas23_'
 [16:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[16:41:24] [Server thread/INFO]: Villager cmk['Villager'/13967, l='ServerLevel[world]', x=2828.06, y=72.00, z=-694.93] died, message: 'Villager was slain by _Sebas23_'
+[16:41:40] [Server thread/INFO]: Villager cmk['Villager'/14030, l='ServerLevel[world]', x=2818.01, y=70.00, z=-655.01] died, message: 'Villager was slain by _Sebas23_'
