@@ -4614,30 +4614,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "2025-05-05 03:31:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-05-05 03:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-05-05 03:26:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-05-05 03:52:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-05-05 03:14:27 +0000"
@@ -4650,15 +4626,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-05 03:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-05 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "2025-05-05 03:31:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "2025-05-05 03:31:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
-      "has_bamboo": "2025-05-05 03:14:27 +0000"
+      "has_diamond_ore": "2025-05-05 03:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-05-05 03:52:13 +0000"
     },
     "done": true
   },
