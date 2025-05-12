@@ -7,3 +7,24 @@
 [00:02:58] [Server thread/WARN]: handleDisconnection() called twice
 [00:03:08] [Server thread/INFO]: _Sebas23_[/100.93.67.125:27377] logged in with entity id 3538 at (2784.8334971153126, 72.00133597911214, -724.7404548016615)
 [00:03:08] [Server thread/INFO]: _Sebas23_ joined the game
+[00:04:56] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.731783495282798,1.5061351021062137,2.2288578082856247
+[00:05:59] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[00:05:59] [Server thread/INFO]: _Sebas23_ left the game
+[00:05:59] [Server thread/INFO]: _Sebas23_[/100.93.67.125:27392] logged in with entity id 4552 at (2821.5080427466078, 70.0, -704.4734634734965)
+[00:05:59] [Server thread/INFO]: _Sebas23_ joined the game
+[00:06:52] [Server thread/WARN]: _Sebas23_ moved too quickly! -3.04625570289636,-1.1767592750642422,-9.465496259236943
+[00:06:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> a
+[00:07:56] [Server thread/WARN]: _Sebas23_ moved too quickly! 10.034128272146972,0.17675927506424216,0.5311162843146349
+[00:08:31] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:08:31] [Server thread/INFO]: _Sebas23_ left the game
+[00:08:52] [Server thread/INFO]: Stopping the server
+[00:08:52] [Server thread/INFO]: Stopping server
+[00:08:52] [Server thread/INFO]: Saving players
+[00:08:52] [Server thread/INFO]: Saving worlds
+[00:08:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:08:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:08:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
