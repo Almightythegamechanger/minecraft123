@@ -90,3 +90,7 @@
 [04:16:25] [Server thread/INFO]: _Sebas23_ left the game
 [04:16:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:8882] logged in with entity id 13381 at (2832.703872260718, 73.24918707874468, -698.0641476250602)
 [04:16:31] [Server thread/INFO]: _Sebas23_ joined the game
+[04:20:12] [Server thread/INFO]: Villager cmk['Villager'/14174, l='ServerLevel[world]', x=362.88, y=74.56, z=-101.05] died, message: 'Villager tried to swim in lava'
+[04:26:00] [Server thread/INFO]: [Not Secure] <_Sebas23_> za
+[04:26:59] [Server thread/INFO]: [Not Secure] <_Sebas23_> a
+[04:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
