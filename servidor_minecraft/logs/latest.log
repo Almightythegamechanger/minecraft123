@@ -72,3 +72,21 @@
 [04:07:53] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.783250199332088,1.1661092609382138,1.8016412460190168
 [04:08:46] [Server thread/INFO]: [Not Secure] <_Sebas23_> 3,440 Z: 1,024
 [04:09:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> 425 128
+[04:11:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=364, y=116, z=-99} jd{x=365, y=117, z=-100}
+[04:11:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=364, y=116, z=-99} jd{x=365, y=117, z=-100}
+[04:11:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=364, y=116, z=-99} jd{x=365, y=117, z=-100}
+[04:11:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=364, y=116, z=-99} jd{x=365, y=117, z=-100}
+[04:12:19] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[04:12:19] [Server thread/INFO]: chepaboy left the game
+[04:13:41] [Server thread/INFO]: chepaboy[/100.80.73.88:49219] logged in with entity id 12268 at (2821.223649345566, 70.0, -708.7979817335688)
+[04:13:41] [Server thread/INFO]: chepaboy joined the game
+[04:14:27] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[04:14:28] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[04:14:29] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[04:14:29] [Server thread/WARN]: _Sebas23_ moved wrongly!
+[04:15:06] [Server thread/WARN]: _Sebas23_ moved too quickly! -3.2778111131374317,1.7491326388584127,-9.5020692052816
+[04:16:24] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[04:16:25] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[04:16:25] [Server thread/INFO]: _Sebas23_ left the game
+[04:16:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:8882] logged in with entity id 13381 at (2832.703872260718, 73.24918707874468, -698.0641476250602)
+[04:16:31] [Server thread/INFO]: _Sebas23_ joined the game
